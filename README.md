@@ -18,11 +18,9 @@ This project follows a full data analytics workflow from data generation through
 
 | File | Description |
 |---|---|
-| `generate_spotify_data.py` | Generates the raw synthetic dataset |
-| `clean_spotify_data.py` | Cleans and validates the dataset |
-| `spotify_clean.csv` | Final cleaned dataset used in Power BI |
+| `spotify_clean.csv` | Cleaned dataset used in Power BI |
 | `Spotify_Analytics.pbix` | Power BI dashboard file |
-| `Spotify_Analytics_Presentation.pptx` | Business presentation |
+| `Spotify_Analytics_Presentation.pdf` | Business presentation |
 
 ---
 
